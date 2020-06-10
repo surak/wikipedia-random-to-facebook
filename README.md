@@ -16,3 +16,10 @@ which always points to a random article.
 - Press shift-tab (my safari ends up somewhat in the avatar shit after pasting text)
 - Presses enter
 - Closes tab
+
+
+## How to use
+
+Clone this repo, open the folder on automator, and change the "Get specified URLS" to the url of a comment: something like this: https://www.facebook.com/user/posts/NUMBER?comment_id=NUMBER&reply_comment_id=NUMBER&notif_id=NUMBER&notif_t=comment_mention&ref=notif
+
+- You have to obviosuly figure the comment url yourself.
